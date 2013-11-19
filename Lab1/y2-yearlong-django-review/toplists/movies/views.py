@@ -22,7 +22,7 @@ def add_movie(request):
 def movie(request, movie_id):
     context = {'movies': movies}
     return render(request, 'movies/movies.html', context)
-    return HttpResponse("this is where you see movie number " + movie_id + " and all it's comments")
+  
 
 def add_comment(request, movie_id):
     return HttpResponse("adding comment to movie " + movie_id)
