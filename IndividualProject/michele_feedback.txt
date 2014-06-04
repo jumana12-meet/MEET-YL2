@@ -1,0 +1,7 @@
+Great job with the app. I think you are the only person to also use Github to hand it in, so definitely good job with that =). 
+
+I really like the design of the app - the colors match, it is well laid-out in the screen, and it is very clear what I am supposed to do with each of the pieces. You give me a lot of “helper text”, which is great for explaining to a user how to use your app. Fantastic. The only suggestion I have about the UI is to make it more obvious which things are buttons - the button background blends into the background of the entire app, so it is hard to see what is a button and what is just helper text in some cases. 
+
+When I click to be reminded about random times, I unfortunately see the error “Bad Arguments to AddMinutes”. From looking at your blocks screenshots, you are using AddMinutes to add a random number of minutes to the Time variable. What you wanted (I think) was for the Time variable was to hold the time NOW (which you can get from a timer by using the block Timer.Now) instead of holding a random number. Small mistake, but I understand what you were trying to do. 
+
+Great job getting this app to look good and almost work exactly like you wanted. I can’t wait to see what happens next.
